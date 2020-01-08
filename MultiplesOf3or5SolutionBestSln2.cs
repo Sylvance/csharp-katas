@@ -1,6 +1,6 @@
 public static class Kata
 {
-  public static int Solution(int value)
+  public static int MultiplesOf3or5Solution(int value)
   {
     var sum = 0;
     for(int i = 3; i < value; i++)
