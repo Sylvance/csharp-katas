@@ -1,4 +1,4 @@
-# Csharp Katas
+# C# Katas
 Codewars Katas based on C#
 
 ## Running code
@@ -6,3 +6,6 @@ Codewars Katas based on C#
 `csc File.cs`
 - Execute with Mono:
 `mono File.exe`
+
+## Contributor
+Sylvance Kerandi.
